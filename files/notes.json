@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1794067366773",
+        "title": "EJS",
+        "content": "bsolutely! Let's organize your Notes Web App properly by adding a files folder to your backend. We'll use a JSON file to store notes permanently, so your notes won't disappear when you restart the server.\r\n\r\nWe'll keep your existing EJS + Tailwind frontend.",
+        "date": "7/11/2026, 9:32:46 pm"
+    },
+    {
+        "id": "1794067345866",
+        "title": "HELLLO 123",
+        "content": "123",
+        "date": "7/11/2026, 9:32:25 pm"
+    },
+    {
+        "id": "1794067333935",
+        "title": "MY LIFE IS FUCKING WORST",
+        "content": "EVERYDAY I FEEL LIKE HELL",
+        "date": "7/11/2026, 9:32:13 pm"
+    },
+    {
+        "id": "1794066965503",
+        "title": "MY BACKEND DEV JOURNEY",
+        "content": "HELLO I AM CURRENTLY LEARNING BACKEND DEVELOPMENT",
+        "date": "7/11/2026, 9:26:05 pm"
+    }
+]
